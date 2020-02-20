@@ -14,14 +14,13 @@ bulletpoints:
     image:
       optimized: images/nan_talk.webp
       fallback: images/nan_talk.jpg
-  - title: We think plants are the future
+  - title: We know meal-prep is the future
     description: >-
-      Word. But good **code** _can_ solve a lots of problems, too. New _and_
-      old. That’s why we help beginners get started with web development through
-      free content and tools, like this theme. We also believe [the
-      JAMstack](https://jamstack.org/) might be one solid pillar on which we
-      build that future.
+      Optimal health, well being, and exercise are our focus.
+      VTN believes a heathly life-style combined properly balanced diet are key in personal productivity
+      and hapiness. If you're ready for a better quality of life, place an order and start today!
     image:
+
       optimized: images/team.webp
       fallback: images/team.jpg
 menus:
