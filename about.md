@@ -2,14 +2,13 @@
 title: About
 headline: We are VTN
 introduction: >-
-  Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-  from Québec City. Planty is a theme we built for
-  [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-  enable e-commerce on Planty, you’ll need to [sign up for
-  Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-  required.
+  A meal-prep delivery service
+ Our goal is to fuel people, so they can live their best lives.
+  
+
+  
 bulletpoints:
-  - title: We love plants
+  - title: We love health
     description: >-
       Now THAT is true, but we love web development even more. We talk about it
       on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft live
