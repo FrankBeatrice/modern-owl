@@ -1,6 +1,6 @@
 ---
-slug: europe
-title: Plants from Europe
+slug: bulk-protien
+title: Bulk-Protien
 section: Store
 menus:
   categories:

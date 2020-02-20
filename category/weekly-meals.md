@@ -1,9 +1,9 @@
 ---
-slug: cactuses
-title: Cactuses
+slug: weekly-meals
+title: Weekly-Meals
 section: Store
 menus:
   categories:
-    weight: 6
+    weight: 2
 layout: category
 ---
