@@ -2,8 +2,7 @@
 title: About
 headline: We are VTN
 introduction: >-
-  A meal-prep delivery service
- Our goal is to fuel people, so they can live their best lives.
+  Our goal is to fuel people, so they can live their best life!
   
 
   
