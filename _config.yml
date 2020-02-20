@@ -9,8 +9,8 @@ logos:
     optimized: images/logo-black.svg
     fallback: images/logo-black.svg
   dark:
-    optimized: images/logo.svg
-    fallback: images/logo.svg
+    optimized: images/logo-black.svg 
+    fallback: images/logo-black.svg
 palette: default
 palettes:
   default:
