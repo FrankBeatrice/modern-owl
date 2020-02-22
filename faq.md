@@ -34,7 +34,7 @@ questions:
     In order to help the delivery process, please provide us with as much information as you can to help us locate your home, business or apartment. We will not be liable if unclear delivery information causes you to miss your order.
 
     Once the delivery has been made based on your specifications, we are no longer responsible for any damage or delay on part of other persons, circumstances, or for the security of its contents. If you think the contents have been tampered with, please let us know as soon as possible so we can find a more suitable arrangement for the next delivery.
-- question: SECTION 4 - MODIFICATIONS & CANCELLATIONS TO PROGRAMS
+- question: SECTION D - MODIFICATIONS & CANCELLATIONS TO PROGRAMS
   answer: Because everything is specially made to order, we require a minimum of 48-hours
     notice for any changes to an order, including but not limited to paused delivery,
     delivery address changes, allergy changes, and delivery window changes. Purchases
