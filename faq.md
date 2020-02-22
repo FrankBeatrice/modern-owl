@@ -33,7 +33,7 @@ questions:
     notice for any changes to an order, including but not limited to paused delivery,
     delivery address changes, allergy changes, and delivery window changes. Purchases
     are non-refundable, but eligible for store credit.
-- question: SECTION 5 - weather & Traffic allowances
+- question: SECTION 5 - Weather & Traffic allowances
   answer: "We cannot guarantee delivery within your selected time slot, due to many
     reasons, including weather, traffic, and other factors outside of our control.
     In instances of inclement weather, we hold the right to cancel our deliveries
