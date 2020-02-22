@@ -4,6 +4,11 @@ headline: Behold our FAQ
 introduction: All right, friends. Let’s do this. This section will cover basic, frequently
   asked questions for e-commerce merchants.
 questions:
+- question: SECTION 4 - MODIFICATIONS & CANCELLATIONS TO PROGRAMS
+  answer: Because everything is specially made to order, we require a minimum of 48-hours
+    notice for any changes to an order, including but not limited to paused delivery,
+    delivery address changes, allergy changes, and delivery window changes. Purchases
+    are non-refundable, but eligible for store credit.
 - question: SECTION 1 - DISCLAIMER AND LIABILITY WAIVER
   answer: "By using VTN Meals products or services, you acknowledge that you are doing
     so at your own risk, and have consulted with your doctor or other health professional
