@@ -4,22 +4,11 @@ headline: Behold our FAQ
 introduction: All right, friends. Let’s do this. This section will cover basic, frequently
   asked questions for e-commerce merchants.
 questions:
-- question: SECTION 8 - SITE CONTENTS
-  answer: "Unless otherwise noted, all materials, including images, illustrations,
-    designs, icons, photographs, video clips, and written and other materials that
-    appear as part of this website are protected by copyrights, trademarks, trade
-    dress and/or other intellectual properties owned, controlled or licensed to VTN.
-    \  \nThe website as a whole is protected by copyright and trade dress, all worldwide
-    rights, titles and interests in and to which are owned by VTN\n\nThe contents
-    of our website is intended solely for personal, noncommercial (other than for
-    the purchase of merchandise from our site) use by the users of our website. You
-    may download or copy the contents and other downloadable materials displayed on
-    the website for your personal use only. No right, title or interest in any downloaded
-    materials or software is transferred to you as a result of any such downloading
-    or copying. You may not reproduce (except as noted above), publish, transmit,
-    distribute, display, modify, create derivative works from, sell or participate
-    in any sale of, or exploit in any way, in whole or in part, any of the contents,
-    the website, or any related software."
+- question: SECTION 9 - COMMUNICATIONS
+  answer: "You agree that VTN may send electronic mail to you for the purpose of advising
+    you of changes or additions to this website, any VTN products or services, or
+    for such other purpose(s) as VTN deems appropriate.   \n\"Remember you have the
+    option to opt-out of marketing communications.\""
 - question: SECTION 1 - DISCLAIMER AND LIABILITY WAIVER
   answer: "By using VTN Meals products or services, you acknowledge that you are doing
     so at your own risk, and have consulted with your doctor or other health professional
@@ -67,6 +56,22 @@ questions:
     of directors, consultants, agents and affiliates harmless from and against any
     and all claims, damages, costs and expenses, including costs and attorney’ fees,
     arising from or related to your use of the site and our services.
+- question: SECTION 8 - SITE CONTENTS
+  answer: "Unless otherwise noted, all materials, including images, illustrations,
+    designs, icons, photographs, video clips, and written and other materials that
+    appear as part of this website are protected by copyrights, trademarks, trade
+    dress and/or other intellectual properties owned, controlled or licensed to VTN.
+    \  \nThe website as a whole is protected by copyright and trade dress, all worldwide
+    rights, titles and interests in and to which are owned by VTN\n\nThe contents
+    of our website is intended solely for personal, noncommercial (other than for
+    the purchase of merchandise from our site) use by the users of our website. You
+    may download or copy the contents and other downloadable materials displayed on
+    the website for your personal use only. No right, title or interest in any downloaded
+    materials or software is transferred to you as a result of any such downloading
+    or copying. You may not reproduce (except as noted above), publish, transmit,
+    distribute, display, modify, create derivative works from, sell or participate
+    in any sale of, or exploit in any way, in whole or in part, any of the contents,
+    the website, or any related software."
 - question: Rapid-fire questions
   answer: 'Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
     designer a couple of months ago. <br /><br /> Q: Why did you build a theme for
