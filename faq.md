@@ -4,11 +4,6 @@ headline: Behold our FAQ
 introduction: All right, friends. Let’s do this. This section will cover basic, frequently
   asked questions for e-commerce merchants.
 questions:
-- question: SECTION 9 - COMMUNICATIONS
-  answer: "You agree that VTN may send electronic mail to you for the purpose of advising
-    you of changes or additions to this website, any VTN products or services, or
-    for such other purpose(s) as VTN deems appropriate.   \n\"Remember you have the
-    option to opt-out of marketing communications.\""
 - question: SECTION 1 - DISCLAIMER AND LIABILITY WAIVER
   answer: "By using VTN Meals products or services, you acknowledge that you are doing
     so at your own risk, and have consulted with your doctor or other health professional
@@ -72,6 +67,17 @@ questions:
     distribute, display, modify, create derivative works from, sell or participate
     in any sale of, or exploit in any way, in whole or in part, any of the contents,
     the website, or any related software."
+- question: SECTION 9 - COMMUNICATIONS
+  answer: "You agree that VTN may send electronic mail to you for the purpose of advising
+    you of changes or additions to this website, any VTN products or services, or
+    for such other purpose(s) as VTN deems appropriate.   \n\"Remember you have the
+    option to opt-out of marketing communications.\""
+- question: SECTION 10 - IMAGES
+  answer: "The images and colors displayed on the website do not necessarily represent
+    or depict actual meal programs or food offered by VTN.   \nProducts and meals
+    are subject to change without notice.  \n\"However the majority of our images
+    are our own...So remember that most of the awesomeness you see, is the awesomeness
+    you shall receive.\""
 - question: Rapid-fire questions
   answer: 'Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
     designer a couple of months ago. <br /><br /> Q: Why did you build a theme for
