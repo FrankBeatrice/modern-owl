@@ -8,7 +8,7 @@ layout: body
   {% for bulletpoint in page.bulletpoints %}
     <section class="content__row about__section">
       
-      {% include picture.html image=bulletpoint.image alt=bulletpoint.title cssClass='about__section-image' %}
+      {% include picture.html image=bulletpoint.image cssClass='about__section-image' %}
       <div class="about__section-content-container">
         <h2 class="about__section-title">{{ bulletpoint.title }}</h2>
         <div class="about__section-content">
