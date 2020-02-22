@@ -1,4 +1,5 @@
 --- 
+title: T&C
 headline: "Terms & Conditions"
 introduction: T&C
 layout: faq
