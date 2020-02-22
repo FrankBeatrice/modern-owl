@@ -1,15 +1,9 @@
 ---
 title: T&C
-headline: Behold our FAQ
-introduction: All right, friends. Let’s do this. This section will cover basic, frequently
-  asked questions for e-commerce merchants.
+headline: Terms & Conditions
+introduction: "All right, friends.  This section covers the things you agree to when
+  utilizing VTN's services.  \nP.s Thanks for your business! "
 questions:
-- question: ALLERGIES
-  answer: "We are not always able to accommodate for all allergies prior to your order.
-    \ \nPlease check with us first if you have any concerns or questions by contacting
-    us @ VelocityTrainingNutrition@gmail.com  \nWe will do our best to craft the perfect
-    meal for you & your fam.  \nWhether that means you yourself, your friends, relatives
-    &\\\\or   \nanimal companions. "
 - question: SECTION A - DISCLAIMER AND LIABILITY WAIVER
   answer: "By using VTN Meals products or services, you acknowledge that you are doing
     so at your own risk, and have consulted with your doctor or other health professional
@@ -90,17 +84,12 @@ questions:
     to product descriptions, pricing, and availability. We reserve the right to correct
     any errors, inaccuracies or omissions and to change or update information at any
     time without prior notice (including after you have submitted your order).
-- question: Rapid-fire questions
-  answer: 'Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
-    designer a couple of months ago. <br /><br /> Q: Why did you build a theme for
-    Stackbit? <br /> A: We believe in Stackbit’s promise of opening up the JAMstack
-    to more developers. Plus, we trust these folks. [Read more about Stackbit](http://bit.ly/2YAvGix).
-    <br /><br /> Q: How many people work at Snipcart? <br /> A: Not a lot! We’re a
-    small, bootstrapped team of eight human beings. Michael might be a robot, though.
-    <br /><br /> Q: Why is Snipcart based in Québec City? <br /> A: Have you been
-    here? It’s beaaautiful! <br /><br /> Q: What’s the meaning of life? <br /> A:
-    We’re not quite sure. But building useful products with people we love feels meaningful
-    enough.'
+- question: Section L ALLERGIES
+  answer: "We are not always able to accommodate for all allergies prior to your order.
+    \ \nPlease check with us first if you have any concerns or questions by contacting
+    us @ VelocityTrainingNutrition@gmail.com  \nWe will do our best to craft the perfect
+    meal for you & your fam.  \nWhether that means you yourself, your friends, relatives
+    &\\\\or   \nanimal companions. "
 layout: faq
 menu:
   main:
