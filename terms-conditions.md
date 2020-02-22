@@ -8,6 +8,7 @@ questions:
   - question: SECTION 1 - DISCLAIMER AND LIABILITY WAIVER
     answer: >-
       By using VTN Meals products or services, you acknowledge that you are doing so at your own risk, and have consulted with your doctor or other health professional about any change in your diet:
+    
      - We do not claim our meal program, products, or services will alleviate, heal or cure any health condition or symptom. 
      - No product or service VTN offers is meant to diagnose, treat, prevent or cure any medical condition. 
      - The statements made by VTN Meals on this website and our programs and products have not been evaluated by the Food and Drug Administration.
