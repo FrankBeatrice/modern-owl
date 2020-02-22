@@ -4,7 +4,13 @@ headline: Behold our FAQ
 introduction: All right, friends. Let’s do this. This section will cover basic, frequently
   asked questions for e-commerce merchants.
 questions:
-- question: SECTION 1 - DISCLAIMER AND LIABILITY WAIVER
+- question: ALLERGIES
+  answer: "We are not always able to accommodate for all allergies prior to your order.
+    \ \nPlease check with us first if you have any concerns or questions by contacting
+    us @ VelocityTrainingNutrition@gmail.com  \nWe will do our best to craft the perfect
+    meal for you & your fam.  \nWhether that means you yourself, your friends, relatives
+    &\\\\or   \nanimal companions. "
+- question: SECTION A - DISCLAIMER AND LIABILITY WAIVER
   answer: "By using VTN Meals products or services, you acknowledge that you are doing
     so at your own risk, and have consulted with your doctor or other health professional
     about any change in your diet  \n<br></br>\n\n*  We do not claim our meal program,
@@ -78,6 +84,12 @@ questions:
     are subject to change without notice.  \n\"However the majority of our images
     are our own...So remember that most of the awesomeness you see, is the awesomeness
     you shall receive.\""
+- question: SECTION 11 - INACCURACY DISCLAIMER
+  answer: From time to time there may be information on\\submitted to our website
+    that contains typographical errors, inaccuracies, or omissions that may relate
+    to product descriptions, pricing, and availability. We reserve the right to correct
+    any errors, inaccuracies or omissions and to change or update information at any
+    time without prior notice (including after you have submitted your order).
 - question: Rapid-fire questions
   answer: 'Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
     designer a couple of months ago. <br /><br /> Q: Why did you build a theme for
