@@ -57,7 +57,7 @@ questions:
     of directors, consultants, agents and affiliates harmless from and against any
     and all claims, damages, costs and expenses, including costs and attorney’ fees,
     arising from or related to your use of the site and our services.
-- question: SECTION 8 - SITE CONTENTS
+- question: SECTION H - SITE CONTENTS
   answer: "Unless otherwise noted, all materials, including images, illustrations,
     designs, icons, photographs, video clips, and written and other materials that
     appear as part of this website are protected by copyrights, trademarks, trade
