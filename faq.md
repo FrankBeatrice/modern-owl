@@ -1,8 +1,8 @@
 ---
 title: FAQ
 headline: Behold our FAQ
-introduction: All right, friends. Let’s do this. This section will cover basic, frequently
-  asked questions for e-commerce merchants.
+introduction: 'All right, friends. Let’s do this. This section will cover basic, frequently
+  asked questions '
 questions:
 - question: Allergies
   answer: "We are not always able to accommodate for all allergies prior to your order.
