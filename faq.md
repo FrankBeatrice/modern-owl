@@ -4,11 +4,22 @@ headline: Behold our FAQ
 introduction: All right, friends. Let’s do this. This section will cover basic, frequently
   asked questions for e-commerce merchants.
 questions:
-- question: SECTION 7 - INDEMNIFICATION
-  answer: You agree to defend, indemnify and hold VTN, its employees, officers, board
-    of directors, consultants, agents and affiliates harmless from and against any
-    and all claims, damages, costs and expenses, including costs and attorney’ fees,
-    arising from or related to your use of the site and our services.
+- question: SECTION 8 - SITE CONTENTS
+  answer: "Unless otherwise noted, all materials, including images, illustrations,
+    designs, icons, photographs, video clips, and written and other materials that
+    appear as part of this website are protected by copyrights, trademarks, trade
+    dress and/or other intellectual properties owned, controlled or licensed to VTN.
+    \  \nThe website as a whole is protected by copyright and trade dress, all worldwide
+    rights, titles and interests in and to which are owned by VTN\n\nThe contents
+    of our website is intended solely for personal, noncommercial (other than for
+    the purchase of merchandise from our site) use by the users of our website. You
+    may download or copy the contents and other downloadable materials displayed on
+    the website for your personal use only. No right, title or interest in any downloaded
+    materials or software is transferred to you as a result of any such downloading
+    or copying. You may not reproduce (except as noted above), publish, transmit,
+    distribute, display, modify, create derivative works from, sell or participate
+    in any sale of, or exploit in any way, in whole or in part, any of the contents,
+    the website, or any related software."
 - question: SECTION 1 - DISCLAIMER AND LIABILITY WAIVER
   answer: "By using VTN Meals products or services, you acknowledge that you are doing
     so at your own risk, and have consulted with your doctor or other health professional
@@ -51,6 +62,11 @@ questions:
     This site and all contents of the site are provided on an "AS IS" basis without warranties of any kind, either express or implied, including without limitation warranties of title or implied warranties of merchantability or fitness for a particular purpose. You acknowledge, by your use of the site, that your use of the site is at your sole risk, and that VTN shall not be liable for any damages of any kind related to your use of this site and our services.
 
     All content displayed on this website including text, graphics, images and other material is not intended to be a substitute for professional medical advice, diagnosis or treatment. Always seek the expert advice of your nutritionist, physician or other qualified health provider with questions you may have regarding a medical diagnosis or condition. Information and resources found on this website are based on the opinions of the creator and should not be used to make health changes or to determine a diet. This information is not intended to be a promise of benefits, a legal warranty or a guarantee of any health results to be achieved. The United States Food and Drug Administration (“FDA”) has not evaluated any statement, claim, or representation made on or accessible from this website. No food, product or service mentioned on, or available from or through this page is intended to diagnose, treat, cure or prevent disease.
+- question: SECTION 7 - INDEMNIFICATION
+  answer: You agree to defend, indemnify and hold VTN, its employees, officers, board
+    of directors, consultants, agents and affiliates harmless from and against any
+    and all claims, damages, costs and expenses, including costs and attorney’ fees,
+    arising from or related to your use of the site and our services.
 - question: Rapid-fire questions
   answer: 'Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
     designer a couple of months ago. <br /><br /> Q: Why did you build a theme for
