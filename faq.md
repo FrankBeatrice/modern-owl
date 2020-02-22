@@ -4,6 +4,11 @@ headline: Behold our FAQ
 introduction: All right, friends. Let’s do this. This section will cover basic, frequently
   asked questions for e-commerce merchants.
 questions:
+- question: SECTION 7 - INDEMNIFICATION
+  answer: You agree to defend, indemnify and hold VTN, its employees, officers, board
+    of directors, consultants, agents and affiliates harmless from and against any
+    and all claims, damages, costs and expenses, including costs and attorney’ fees,
+    arising from or related to your use of the site and our services.
 - question: SECTION 1 - DISCLAIMER AND LIABILITY WAIVER
   answer: "By using VTN Meals products or services, you acknowledge that you are doing
     so at your own risk, and have consulted with your doctor or other health professional
@@ -41,6 +46,11 @@ questions:
     notify you as early as possible. As both traffic and weather are outside of VTN's
     normal control, refunds will not be issued for affected orders.  \n Store credit
     will be issued in the event of one of these scenarios."
+- question: SECTION 6 - DISCLAIMER
+  answer: |-
+    This site and all contents of the site are provided on an "AS IS" basis without warranties of any kind, either express or implied, including without limitation warranties of title or implied warranties of merchantability or fitness for a particular purpose. You acknowledge, by your use of the site, that your use of the site is at your sole risk, and that VTN shall not be liable for any damages of any kind related to your use of this site and our services.
+
+    All content displayed on this website including text, graphics, images and other material is not intended to be a substitute for professional medical advice, diagnosis or treatment. Always seek the expert advice of your nutritionist, physician or other qualified health provider with questions you may have regarding a medical diagnosis or condition. Information and resources found on this website are based on the opinions of the creator and should not be used to make health changes or to determine a diet. This information is not intended to be a promise of benefits, a legal warranty or a guarantee of any health results to be achieved. The United States Food and Drug Administration (“FDA”) has not evaluated any statement, claim, or representation made on or accessible from this website. No food, product or service mentioned on, or available from or through this page is intended to diagnose, treat, cure or prevent disease.
 - question: Rapid-fire questions
   answer: 'Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
     designer a couple of months ago. <br /><br /> Q: Why did you build a theme for
