@@ -39,7 +39,7 @@ questions:
     notice for any changes to an order, including but not limited to paused delivery,
     delivery address changes, allergy changes, and delivery window changes. Purchases
     are non-refundable, but eligible for store credit.
-- question: SECTION 5 - Weather & Traffic allowances
+- question: SECTION E - Weather & Traffic allowances
   answer: "We cannot guarantee delivery within your selected time slot, due to many
     reasons, including weather, traffic, and other factors outside of our control.
     In instances of inclement weather, we hold the right to cancel our deliveries
@@ -47,7 +47,7 @@ questions:
     notify you as early as possible. As both traffic and weather are outside of VTN's
     normal control, refunds will not be issued for affected orders.  \n Store credit
     will be issued in the event of one of these scenarios."
-- question: SECTION 6 - DISCLAIMER
+- question: SECTION F - DISCLAIMER
   answer: |-
     This site and all contents of the site are provided on an "AS IS" basis without warranties of any kind, either express or implied, including without limitation warranties of title or implied warranties of merchantability or fitness for a particular purpose. You acknowledge, by your use of the site, that your use of the site is at your sole risk, and that VTN shall not be liable for any damages of any kind related to your use of this site and our services.
 
