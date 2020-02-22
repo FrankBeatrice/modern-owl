@@ -7,22 +7,14 @@ introduction: >-
 questions:
   - question: SECTION 1 - DISCLAIMER AND LIABILITY WAIVER
     answer: >-
-      By using VTN Meals products or services, you acknowledge that you are doing so at your own risk, and have consulted with your doctor or other health professional about any change in your diet.
-We do not claim our meal program, products, or services will alleviate, heal or cure any health condition or symptom. No product or service Provenance Meals offers is meant to diagnose, treat, prevent or cure any medical condition. 
-The statements made by VTN Meals on this website and our programs and products have not been evaluated by the Food and Drug Administration.
-It is important to put your VTN meals and perishable items in the refrigerator when you receive them. 
-If you receive deliveries from VTN Meals or receive our products through any other means, you agree to properly and promptly refrigerate all meals until you plan to eat them.
-Since all of our food is fresh and preservative-free, it will go bad if not properly cared for.  
-
-Finally, by using our website, you acknowledge that you have read and agree to our Terms & Conditions:
-
+      By using VTN Meals products or services, you acknowledge that you are doing so at your own risk, and have consulted with your doctor or other health professional about any change in your diet.We do not claim our meal program, products, or services will alleviate, heal or cure any health condition or symptom. No product or service Provenance Meals offers is meant to diagnose, treat, prevent or cure any medical condition. The statements made by VTN Meals on this website and our programs and products have not been evaluated by the Food and Drug Administration.It is important to put your VTN meals and perishable items in the refrigerator when you receive them. If you receive deliveries from VTN Meals or receive our products through any other means, you agree to properly and promptly refrigerate all meals until you plan to eat them.Since all of our food is fresh and preservative-free, it will go bad if not properly cared for.  Finally, by using our website, you acknowledge that you have read and agree to our Terms & Conditions:
         - US shipping will take between 3 to 5 business days.
         - International shipping will take between 5 and 10 business days.
         - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
   - question: How do refunds and returns work?
     answer: >-
       It happens. Even the most beautiful of plants will disappoint *someone*.
-      Again, tell it like it is:
+      Again tell it like it is:
 
         - All discounted items sales are final.
         - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
