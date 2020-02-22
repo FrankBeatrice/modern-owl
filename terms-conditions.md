@@ -84,7 +84,7 @@ questions:
     to product descriptions, pricing, and availability. We reserve the right to correct
     any errors, inaccuracies or omissions and to change or update information at any
     time without prior notice (including after you have submitted your order).
-- question: Section L ALLERGIES
+- question: Section L - ALLERGIES
   answer: "We are not always able to accommodate for all allergies prior to your order.
     \ \nPlease check with us first if you have any concerns or questions by contacting
     us @ VelocityTrainingNutrition@gmail.com  \nWe will do our best to craft the perfect
