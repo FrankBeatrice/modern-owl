@@ -15,8 +15,7 @@ questions:
       - It is important to put your VTN meals and perishable items in the refrigerator when you receive them. If you receive deliveries from VTN Meals or receive our products through any other means, you agree to properly and promptly refrigerate all meals until you plan to eat them.Since all of our food is fresh and preservative-free, it will go bad if not properly cared for.  Finally, by using our website, you acknowledge that you have read and agree to our Terms & Conditions:
   - question: SECTION 2 - PAYMENTS
     answer: >-
-    - Payment is due upon purchasing your VTN meals, product or program online, and prior to the delivery of any products
-        
+    - Payment is due upon purchasing your VTN meals, product or program online, and prior to the delivery of any products:
   - question: How do you handle sensitive customer information?
     answer: >-
       [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
