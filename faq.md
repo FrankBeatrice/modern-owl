@@ -73,18 +73,18 @@ questions:
     distribute, display, modify, create derivative works from, sell or participate
     in any sale of, or exploit in any way, in whole or in part, any of the contents,
     the website, or any related software."
-- question: SECTION 9 - COMMUNICATIONS
+- question: SECTION I - COMMUNICATIONS
   answer: "You agree that VTN may send electronic mail to you for the purpose of advising
     you of changes or additions to this website, any VTN products or services, or
     for such other purpose(s) as VTN deems appropriate.   \n\"Remember you have the
     option to opt-out of marketing communications.\""
-- question: SECTION 10 - IMAGES
+- question: SECTION J - IMAGES
   answer: "The images and colors displayed on the website do not necessarily represent
     or depict actual meal programs or food offered by VTN.   \nProducts and meals
     are subject to change without notice.  \n\"However the majority of our images
     are our own...So remember that most of the awesomeness you see, is the awesomeness
     you shall receive.\""
-- question: SECTION 11 - INACCURACY DISCLAIMER
+- question: SECTION K - INACCURACY DISCLAIMER
   answer: From time to time there may be information on\\submitted to our website
     that contains typographical errors, inaccuracies, or omissions that may relate
     to product descriptions, pricing, and availability. We reserve the right to correct
