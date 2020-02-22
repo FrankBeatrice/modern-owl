@@ -10,7 +10,7 @@ questions:
     us @ VelocityTrainingNutrition@gmail.com  \nWe will do our best to craft the perfect
     meal for you & your fam.  \nWhether that means you yourself, your friends, relatives
     &\\\\or  \nanimal companions."
-- question: How long does shipping take?
+- question: How long does delivery take?
   answer: |-
     Now that’s a frequent one all right, ain’t it? Your answer to this should *manage customer expectations*. Just like [a good checkout flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
 
