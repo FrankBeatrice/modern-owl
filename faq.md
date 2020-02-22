@@ -21,10 +21,13 @@ questions:
     Conditions."
 - question: SECTION 2 - PAYMENTS
   answer: "* Payment is due upon purchasing your VTN meals, product or program online, and prior to the delivery of any products"
-- question: How do you handle sensitive customer information?
-  answer: "[GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
-    am I right? Make sure you’re as transparent as possible with your data handling
-    process. Or, if you’re using Snipcart, just refer to [our ToS and DPA](http://bit.ly/2YJwlyt)."
+- question: SECTION 3 - DELIVERY DISCLAIMER
+  answer: |-
+    All VTN meals are to be kept refrigerated until consumed, and freshness cannot be not guaranteed past the 3rd day upon receipt. It is up to the client to maintain freshness once received. We will do our best to deliver your meals to you in accordance with your specifications. However, if you are not home to receive the order or there is no safe place to leave it, we will bring your order back to our kitchen. We cannot guarantee a re-delivery.
+
+    In order to help the delivery process, please provide us with as much information as you can to help us locate your home, business or apartment. We will not be liable if unclear delivery information causes you to miss your order.
+
+    Once the delivery has been made based on your specifications, we are no longer responsible for any damage or delay on part of other persons, circumstances, or for the security of its contents. If you think the contents have been tampered with, please let us know as soon as possible so we can find a more suitable arrangement for the next delivery.
 - question: Rapid-fire questions
   answer: 'Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
     designer a couple of months ago. <br /><br /> Q: Why did you build a theme for
