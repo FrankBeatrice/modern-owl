@@ -40,4 +40,4 @@ fields:
   config:
     required: true
 pages:
-- faq.md
+- terms-conditions.md

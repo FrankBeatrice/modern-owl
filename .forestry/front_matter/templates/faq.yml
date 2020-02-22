@@ -39,3 +39,5 @@ fields:
   default: faq
   config:
     required: true
+pages:
+- faq.md
