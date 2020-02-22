@@ -4,11 +4,6 @@ headline: Behold our FAQ
 introduction: All right, friends. Let’s do this. This section will cover basic, frequently
   asked questions for e-commerce merchants.
 questions:
-- question: SECTION 4 - MODIFICATIONS & CANCELLATIONS TO PROGRAMS
-  answer: Because everything is specially made to order, we require a minimum of 48-hours
-    notice for any changes to an order, including but not limited to paused delivery,
-    delivery address changes, allergy changes, and delivery window changes. Purchases
-    are non-refundable, but eligible for store credit.
 - question: SECTION 1 - DISCLAIMER AND LIABILITY WAIVER
   answer: "By using VTN Meals products or services, you acknowledge that you are doing
     so at your own risk, and have consulted with your doctor or other health professional
@@ -33,6 +28,19 @@ questions:
     In order to help the delivery process, please provide us with as much information as you can to help us locate your home, business or apartment. We will not be liable if unclear delivery information causes you to miss your order.
 
     Once the delivery has been made based on your specifications, we are no longer responsible for any damage or delay on part of other persons, circumstances, or for the security of its contents. If you think the contents have been tampered with, please let us know as soon as possible so we can find a more suitable arrangement for the next delivery.
+- question: SECTION 4 - MODIFICATIONS & CANCELLATIONS TO PROGRAMS
+  answer: Because everything is specially made to order, we require a minimum of 48-hours
+    notice for any changes to an order, including but not limited to paused delivery,
+    delivery address changes, allergy changes, and delivery window changes. Purchases
+    are non-refundable, but eligible for store credit.
+- question: SECTION 5 - weather & Traffic allowances
+  answer: "We cannot guarantee delivery within your selected time slot, due to many
+    reasons, including weather, traffic, and other factors outside of our control.
+    In instances of inclement weather, we hold the right to cancel our deliveries
+    in order to avoid putting our delivery teams at risk. In such a case, we will
+    notify you as early as possible. As both traffic and weather are outside of VTN's
+    normal control, refunds will not be issued for affected orders.  \n Store credit
+    will be issued in the event of one of these scenarios."
 - question: Rapid-fire questions
   answer: 'Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
     designer a couple of months ago. <br /><br /> Q: Why did you build a theme for
