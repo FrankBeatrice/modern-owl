@@ -4,7 +4,7 @@ isHome: true
 layout: index
 ---
 
-# Velocity Training + Nutrition <br> #meals straight to your door!.
+# Velocity Training + Nutrition <br> #meals #fit-foodie
 
 
  
