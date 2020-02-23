@@ -4,7 +4,7 @@ isHome: true
 layout: index
 ---
 
-# Velocity Training + Nutrition <br> #meals #fit-foodie
+# Velocity Training + Nutrition <br> #meals #fit-foodie #cleaneats
 
 
  
