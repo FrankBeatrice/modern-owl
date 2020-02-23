@@ -7,18 +7,17 @@ questions:
 - question: SECTION A - DISCLAIMER AND LIABILITY WAIVER
   answer: "By using VTN Meals products or services, you acknowledge that you are doing
     so at your own risk, and have consulted with your doctor or other health professional
-    about any change in your diet  \n<br></br>\n\n*  We do not claim our meal program,
-    products, or services will alleviate, heal or cure any health condition or symptom.\n
-    \ * No product or service VTN offers is meant to diagnose, treat, prevent or cure
-    any medical condition.\n  * The statements made by VTN Meals on this website and
-    our programs and products have not been evaluated by the Food and Drug Administration.\n
-    \ * It is important to put your VTN meals and perishable items in the refrigerator
-    when you receive them.  \n    If you receive deliveries from VTN Meals or receive
+    about any change in your diet\n\n* We do not claim our meal program, products,
+    or services will alleviate, heal or cure any health condition or symptom.\n* No
+    product or service VTN offers is meant to diagnose, treat, prevent or cure any
+    medical condition.\n* The statements made by VTN Meals on this website and our
+    programs and products have not been evaluated by the Food and Drug Administration.\n*
+    It is important to put your VTN meals and perishable items in the refrigerator
+    when you receive them.  \n  If you receive deliveries from VTN Meals or receive
     our products through any other means, you agree to properly and promptly refrigerate
-    all meals until you plan to eat them.\n  * Since all of our food is fresh and
-    preservative-free, it will go bad if not properly cared for.\n\n    Finally, by
-    using our website, you acknowledge that you have read and agree to our Terms &
-    Conditions."
+    all meals until you plan to eat them.\n* Since all of our food is fresh and preservative-free,
+    it will go bad if not properly cared for.\n\n  Finally, by using our website,
+    you acknowledge that you have read and agree to our Terms & Conditions."
 - question: SECTION B - PAYMENTS
   answer: "* Payment is due upon purchasing your VTN meals, product or program online, and prior to the delivery of any products"
 - question: SECTION C - DELIVERY DISCLAIMER
