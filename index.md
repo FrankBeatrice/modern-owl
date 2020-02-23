@@ -4,7 +4,7 @@ isHome: true
 layout: index
 ---
 
-# Velocity Training + Nutrition <br> #fitnessmotivation
+# Velocity Training + Nutrition <br> 
 
 
  
