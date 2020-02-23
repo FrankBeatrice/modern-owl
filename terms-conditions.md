@@ -19,7 +19,7 @@ questions:
     it will go bad if not properly cared for.\n\n  Finally, by using our website,
     you acknowledge that you have read and agree to our Terms & Conditions."
 - question: SECTION B - PAYMENTS
-  answer: "Payment is due upon purchasing your VTN meals,  \nproduct or program online, and prior to the delivery of any products"
+  answer: Payment is due upon purchasing your VTN meals, prior to the delivery of any products
 - question: SECTION C - DELIVERY DISCLAIMER
   answer: |-
     All VTN meals are to be kept refrigerated until consumed, and freshness cannot be not guaranteed past the 3rd day upon receipt. It is up to the client to maintain freshness once received. We will do our best to deliver your meals to you in accordance with your specifications. However, if you are not home to receive the order or there is no safe place to leave it, we will bring your order back to our kitchen. We cannot guarantee a re-delivery.
