@@ -86,9 +86,9 @@ questions:
 - question: SECTION L - ALLERGIES
   answer: "We are not always able to accommodate for all allergies prior to your order.
     \ \nPlease check with us first if you have any concerns or questions by contacting
-    us @ VelocityTrainingNutrition@gmail.com  \nWe will do our best to craft the perfect
-    meal for you & your fam.  \nWhether that means you yourself, your friends, relatives
-    &\\\\or   \nanimal companions. "
+    us at VelocityTrainingNutrition@gmail.com  \nWe will do our best to craft the
+    perfect meal for you & your fam.  \nWhether that means you yourself, your friends,
+    relatives &\\\\or  \nanimal companions."
 layout: faq
 menu:
   main:
