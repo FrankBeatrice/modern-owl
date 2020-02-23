@@ -4,6 +4,9 @@ headline: Behold our FAQ
 introduction: All right, friends. Let’s do this. This section will cover frequently
   asked questions.
 questions:
+- question: How do I change my delivery address, time, or instructions?
+  answer: Contact us at info@provenancemeals.com at least 72 hours in advance of delivery
+    to make any changes.
 - question: Allergies
   answer: "We are not always able to accommodate for all allergies prior to your order.
     \ \nPlease check with us first if you have any concerns or questions by contacting
@@ -17,6 +20,12 @@ questions:
       - US shipping will take between 3 to 5 business days.
       - International shipping will take between 5 and 10 business days.
       - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+- question: Where is the food prepared?
+  answer: ''
+- question: How is the food packaged?
+  answer: ''
+- question: What's the best way to reheat my food?
+  answer: ''
 - question: How do refunds and returns work?
   answer: "It happens. Even the most beautiful of plants will disappoint _someone_.
     Again, tell it like it is:\n\n* All transactions are final and non-refundable
