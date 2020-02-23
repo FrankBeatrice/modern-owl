@@ -17,28 +17,36 @@ questions:
       - US shipping will take between 3 to 5 business days.
       - International shipping will take between 5 and 10 business days.
       - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
-- question: How do refunds and returns work?
-  answer: |-
-    It happens. Even the most beautiful of plants will disappoint *someone*. Again, tell it like it is:
-
-      - All discounted items sales are final.
-      - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-      - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
+- question: Where is the food prepared?
+  answer: ''
+- question: How is the food packaged?
+  answer: ''
+- question: What's the best way to reheat my food?
+  answer: ''
+- question: How do I change my delivery address, time, or instructions?
+  answer: Contact us at VelocityTrainingNutrition@gmail.com at least 72 hours in advance
+    of delivery to make any changes.
+- question: What if I am not home during my delivery window?
+  answer: ''
+- question: How are meals delivered?
+  answer: ''
 - question: How do you handle sensitive customer information?
   answer: "[GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
     am I right? Make sure you’re as transparent as possible with your data handling
     process. Or, if you’re using Snipcart, just refer to [our ToS and DPA](http://bit.ly/2YJwlyt)."
+- question: How do refunds and returns work?
+  answer: "It happens. Even the most beautiful of plants will disappoint _someone_.
+    Again, tell it like it is:\n\n* All transactions are final and non-refundable
+    but eligible for store credit if modified or canceled  before scheduled delivery
+    .\n* We have a 72 hour cancellation policy. If you can't receive your scheduled
+    delivery, please notify us at least 72 hours in advance of delivery and we will
+    credit your account for the amount of the order.\n* If your purchase is damaged,
+    or in any manner, email us at  \n  VelocityTrainingNutrition@gmail.com, and we’ll
+    refund you + send you a new one ASAP!"
 - question: Rapid-fire questions
-  answer: 'Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
-    designer a couple of months ago. <br /><br /> Q: Why did you build a theme for
-    Stackbit? <br /> A: We believe in Stackbit’s promise of opening up the JAMstack
-    to more developers. Plus, we trust these folks. [Read more about Stackbit](http://bit.ly/2YAvGix).
-    <br /><br /> Q: How many people work at Snipcart? <br /> A: Not a lot! We’re a
-    small, bootstrapped team of eight human beings. Michael might be a robot, though.
-    <br /><br /> Q: Why is Snipcart based in Québec City? <br /> A: Have you been
-    here? It’s beaaautiful! <br /><br /> Q: What’s the meaning of life? <br /> A:
-    We’re not quite sure. But building useful products with people we love feels meaningful
-    enough.'
+  answer: 'Q: Insert Q <br /> A:  Insert A. <br /><br /> Q: Insert Q  <br /> A: Insert
+    A. <br /><br /> Q: Insert Q  <br /> A: Insert A . <br /><br /> Q: Insert Q  <br
+    /> A: Insert A <br /><br /> Q: Insert Q  <br /> A: Insert A.'
 layout: faq
 menu:
   main:
